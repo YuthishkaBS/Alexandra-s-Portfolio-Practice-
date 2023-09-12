@@ -1,0 +1,31 @@
+/**************************************************Top Nave BAr Section*******************************************************/
+.logo{
+    width: 110px;
+    margin: 0px 0px 600px 20px;
+}
+.portfolio{
+    margin: 0px 0px 600px 800px;
+}
+.about{
+    margin: 0px 0px 600px 20px; 
+}
+.contactme{
+    margin: 0px 0px 600px 20px;
+}
+.social-links{
+    margin: 6px 10px auto 11px;
+    /*width: 35px;
+    height: 25px;*/
+}
+.nav-link{
+    color:#9F9D9E;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+.nav-link:hover{
+    color: black;
+    transform: translate(0, -3px)
+}
+
+/**************************************************Portfolio Tab Mid Section*******************************************************/
