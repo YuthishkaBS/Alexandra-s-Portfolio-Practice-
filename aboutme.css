@@ -1,0 +1,127 @@
+/**********************************Nav Bar************************************/
+.alexandra-bennet-logo{
+    height: 5em;
+    padding-left: 20px;
+}
+.navbar-nav{
+    margin-left: auto;
+    font-family: 'Belleza,' sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #efefef;
+}
+.nav-item{
+    padding-right: 15px;
+}
+.nav-item :hover{
+    color: black;
+}
+.socialmedia-links{
+    padding: 5px 5px 10px 15px;
+    display: inline-block;
+}
+
+body, h1, p{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(Images/paperbg.png);
+}
+
+.hello{
+    color: black;
+}
+.comma{
+    color: #FF6300;
+}
+.left-side-content h1{
+    font-size: 5rem;
+    font-weight: 800;
+}
+.left-side-content p{
+    font-weight: 400; 
+    text-align: justify;
+    width: 100%;
+}
+/*content
+
+body, h1, p{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(Images/paperbg.png);
+}
+.container{
+    margin: 0 3%;
+    display: flex;
+    width: 100%;
+}
+.left-side-content, .right-side-content{
+}
+.hello{
+    color: black;
+}
+.comma{
+    color: #FF6300;
+}
+
+    .left-side-content{
+        position: relative;
+        left: 5%;
+    }
+    .left-side-content h1{
+        font-size: 5rem;
+        font-weight: 800;
+        padding: 30px 0px 0px 0px;
+    }
+    .left-side-content p{
+        font-size: 19px;
+        font-weight: 400; 
+        text-align: justify;
+        padding: 25px 30px 0 0;
+        width: 100%;
+        line-height: 42px;
+    }
+
+    .right-side-content{
+        padding: auto;
+        align-items: center;
+    }
+}*/
+
+@media (max-width:750px){}
+    
+/*.container{
+    margin: 0;
+    width: 100%;
+}
+body, h1, p{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(Images/paperbg.png);
+}
+
+.left-side-content{
+    width: 60%;
+    padding:3% 3% 0 3%;
+}
+.left-side-content h1{
+    font-size: 6rem;
+    font-weight: 800;
+
+
+}
+
+.left-side-content p{
+    font-size: 1.3rem;
+    font-weight: 400;
+    width: 100%;
+}
+
+.right-side-content{
+    width: 40%;
+    position: relative;
+    left: 60%;
+    .alexandra{
+        width: 100%;
+    }
+}*/
+
